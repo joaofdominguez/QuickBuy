@@ -20,7 +20,7 @@ namespace QuickBuy.Dominio.ObjetoDeValor
         public bool CartaoCredito
         {
 
-            get { return Id == (int)TipoFormaPagamentoEnum.CartaoCredito }
+            get { return Id == (int)TipoFormaPagamentoEnum.CartaoCredito; }
 
         }
 
