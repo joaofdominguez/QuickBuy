@@ -1,0 +1,12 @@
+{
+
+  "ConntionStrings": {
+    "SqlServerConnection": "",
+    "QuickBuyDB": "server=localhost;uid=root;pwd=Admin@2019;database=QuickBuyDB"
+
+
+  }
+
+
+
+}
